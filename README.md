@@ -1,3 +1,3 @@
 # CatchTheGrogu
 
-Android Development / Java Tutorials - Lesson 13
+Android Development / Java Tutorial - Lesson 13
